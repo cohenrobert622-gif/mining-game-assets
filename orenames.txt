@@ -1,0 +1,1 @@
+["[\"coal\",\"copper\",\"iron\",\"tin\",\"silver\",\"gold\",\"platinum\",\"titanium\",\"emerald\",\"ruby\",\"saphire\",\"obsidian\",\"mithrill\",\"adamantite\",\"voidstone\",\"celestial\",\"atherium\"]"]
